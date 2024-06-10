@@ -1,8 +1,8 @@
 # Codsoft-tasks
-Internship tasks for codsoft of web development.
+Internship tasks for codsoft of python programming.
 The tasks are-
-1-LANDING PAGE 
-2-PORTFOLIO 
-3-CALCULATOR
+1-TO DO LIST 
+2-CALCULATOR
+3-PASSWORD GENERATOR
 The tasks are based on web app .
 # Thanks codesoft.
