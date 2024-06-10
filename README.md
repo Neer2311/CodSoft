@@ -1,6 +1,8 @@
-👋 Hi, I’m @Neer2311
-👀 I’m interested in python programming
-🌱 I’m currently learning pyhton for app development and ML
-💞️ I’m looking to collaborate on any development using python
-📫 How to reach me - @neerajchandel9.nc@gmail.com
-😄 Pronouns: he/him
+# Codsoft-tasks
+Internship tasks for codsoft of web development.
+The tasks are-
+1-LANDING PAGE 
+2-PORTFOLIO 
+3-CALCULATOR
+The tasks are based on web app .
+# Thanks codesoft.
